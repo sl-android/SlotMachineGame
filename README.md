@@ -1,6 +1,6 @@
 # SlotMachineGame
 
-This is a SlotMachine Game using Sensors. - Davidroid -
+This is a SlotMachine Game using Sensors. <br> - Davidroid -
 
 You can choose type by Radio Button. <br><br>
 1) Button Type <br>
